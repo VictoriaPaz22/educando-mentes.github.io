@@ -1,0 +1,21 @@
+header {
+    background-color: rgb(33, 141, 69);
+    height: 35px;
+    display: flex;
+    margin: 0;
+}
+
+body{
+    margin: 0;
+}
+
+.name {
+    text-align: center;
+}
+
+footer {
+    background-color: rgb(33, 141, 69);
+    height: 35px;
+    display: flex;
+    margin: 0;
+}

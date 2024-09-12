@@ -1,0 +1,30 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+
+header {
+    background-color: #8C5A92;
+    height: 85px;
+    display: flex;
+}
+
+.logo {
+    flex-direction: row;
+    padding-top: 5px;
+    padding-left: 135px;
+}
+
+.name {
+    text-align: center;
+}
+
+footer {
+    padding-left: 100px;
+    padding-right: 100px;
+    background-color: #8C5A92;
+    height: 60px;
+    text-align: center;
+    padding-top: 40px;
+}
