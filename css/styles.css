@@ -8,6 +8,7 @@ header {
     background-color: #8C5A92;
     height: 85px;
     display: flex;
+    text-align: center;
 }
 
 .logo {
@@ -16,9 +17,7 @@ header {
     padding-left: 135px;
 }
 
-.name {
-    text-align: center;
-}
+
 
 footer {
     padding-left: 100px;
